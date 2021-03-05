@@ -10,4 +10,6 @@ Links to individual videos are commented in the begining of their respective cla
         Math: ![Alt text](infi_square.jpg?raw=true "Infinite square")
   4. Using Newton's Method. Video link: https://youtu.be/CKl1B8y4qXw
         Math: ![Alt text](newton.jpg?raw=true "Newton")
+     General expression for series. Working out(All credit to the team that did it): https://www.dropbox.com/s/jndc4y12f2zhnt4/Derivation%20of%20Newton%27s%20Sum.pdf?dl=0
+        Expression: ![Alt text](series.jpg?raw=true "Newton Series")
 
